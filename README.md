@@ -35,5 +35,5 @@ Translating low-resource languages like Bangla often requires a trade-off betwee
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/Bangla-to-English-Translation-Benchmark-SOTA-Model-Comparison.git](https://github.com/your-username/Bangla-to-English-Translation-Benchmark-SOTA-Model-Comparison.git)
+git clone https://github.com/abir2010/Bangla-to-English-Translation-Benchmark-SOTA-Model-Comparison.git
 ```
